@@ -1,10 +1,14 @@
 README - INERTIAL MIGRATION RECTANGULAR CHANNEL AR=2 CODE
 Kaitlyn Hood 9/1/2015
+DOI 10.5281/zenodo.832327
 
 For more details about the derivation of this code, see the preprint "Direct
 Measurement of Particle Inertial Migration in Rectangular Channels" by K. 
 Hood, S. Kahkeshani, D. Di Carlo, and M. Roper at: 
 http://arxiv.org/abs/1509.01643
+
+Cite as:
+Kaitlyn Hood. (2017, July 19). kthood/inertial-lift-force-rectangle-AR2: First release of inertial lift force rectangle AR2. Zenodo. http://doi.org/10.5281/zenodo.832328
 
 %——————————————————————————————————————————————————————————————————————————%
 getLiftForce_AR2.m
