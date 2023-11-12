@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: inertial-lift-force-rectangle-AR2
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kaitlyn
+    family-names: Hood
+    email: kthood@purdue.edu
+    affiliation: Purdue University
+    orcid: 'https://orcid.org/0000-0002-3172-8067'
+repository-code: >-
+  https://github.com/kthood/inertial-lift-force-rectangle-AR2
+abstract: >-
+  This code using a two term scaling law to calculate the
+  lift force of a rigid spherical particle in a rectangular
+  channel whose cross section has aspect ratio = 2.
+keywords:
+  - inertial lift force
+  - scaling law
+license: GPL-3.0-or-later
+commit: 6723ca0
+version: 1.0.0
+date-released: '2017-07-19'
